@@ -8,7 +8,8 @@
         "author": {
             "name": "Jhankar Mahbub",
             "published_date": "2020-10-20 17:27:34"            
-        }
+        },
+        "price": 130
     },
     {
         "id": "002",
@@ -19,7 +20,8 @@
         "author": {
             "name": "Hasin Hayder",
             "published_date": "2021-08-21 17:27:34"
-        }
+        },
+        "price": 110
     },
     {
         "id": "003",
@@ -28,9 +30,10 @@
         "image_url": "https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "details": "Object-oriented programming (OOP) is a fundamental programming paradigm used by nearly every developer at some point in their career. OOP is the most popular programming paradigm and is taught as the standard way to code for most of a programmers educational career. Today we will break down the basics of what makes a program object-oriented so that you can start to utilize this paradigm in your own projects and interviews.",
         "author": {
-            "name": "Hasin Hayder",
+            "name": "Mahbubul Hasan Shanto",
             "published_date": "2022-08-20 17:27:34"
-        }
+        },
+        "price": 160
     },
     {
         "id": "004",
@@ -39,9 +42,10 @@
         "image_url": "https://images.unsplash.com/photo-1642952469120-eed4b65104be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "details": "An algorithm is a specific procedure for solving a well-defined computational problem. The development and analysis of algorithms is fundamental to all aspects of computer science: artificial intelligence, databases, graphics, networking, operating systems, security, and so on. Algorithm development is more than just programming. It requires an understanding of the alternatives available for solving a computational problem, including the hardware, networking, programming language, and performance constraints that accompany any particular solution. It also requires understanding what it means for an algorithm to be “correct” in the sense that it fully and efficiently solves the problem at hand.",
         "author": {
-            "name": "Manjur Morshed",
+            "name": "Tahmid Rafi",
             "published_date": "2022-08-19 17:27:34"
-        }
+        },
+        "price": 200
     },
     {
         "id": "005",
@@ -52,7 +56,8 @@
         "author": {
             "name": "Tamim shahriar subeen",
             "published_date": "2022-08-20 17:27:34"
-        }
+        },
+        "price": 100
     },
     {
         "id": "006",
@@ -61,8 +66,9 @@
         "image_url": "https://images.unsplash.com/photo-1516101922849-2bf0be616449?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
         "details": "Python is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses",
         "author": {
-            "name": "Tamim shahriar subeen",
+            "name": "Shafaet Ashraf",
             "published_date": "2022-08-21 17:27:34"
-        }
+        },
+        "price": 140
     }
 ]
